@@ -1,0 +1,17 @@
+[
+  {
+    "adjClose": 92.0,
+    "adjHigh": 92.275,
+    "adjLow": 89.59,
+    "adjOpen": 89.66,
+    "adjVolume": 32018684,
+    "close": 92.0,
+    "date": "2023-03-02T00:00:00+00:00",
+    "divCash": 0.0,
+    "high": 92.275,
+    "low": 89.59,
+    "open": 89.66,
+    "splitFactor": 1.0,
+    "volume": 32018684
+  }
+]
